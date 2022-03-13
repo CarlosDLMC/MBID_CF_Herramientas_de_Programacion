@@ -1,0 +1,22 @@
+La lectura del doctor José comienza con un choque de realidad, desmitificando la imagen habitual de inteligencia artificial que tiene la mayoría de la gente, e incluso ridiculiza la capacidad de aprendizaje de la misma. Y es que, por muchas semenjanzas que se le quieran buscar a la inteligencia artificial con la mente humana, no deja de ser verdad que el proceso que llamamos "aprendizaje" de una inteligencia artificial no tiene nada que ver con la forma en la que un humano aprende. Este proceso para la inteligencia artificial consiste en meter un montón de ejemplos hasta que se encuentran regularidades estadísticas. Y un bebé no aprende a distinguir un gato de un perro mirando 80 mil fotos y corrigiendo el erro cuadrático medio.
+
+
+En este sentido incluso un animal sería más inteligente que la inteligencia artificial, sólo que no les atribuimos habilidades cognitivas. La verdad que esto es bastante decepcionante para una persona media que tiene mitificada la inteligencia artificial, descubrir que aquello que en las películas había visto dominar el mundo no es más que un programa informático que aprende con algoritmos de estadística avanzada.
+
+
+El siguiente tema que tocó el doctor el soft computing. Este para mí es un tema nuevo, pero el doctor José lo consiguió explicar con palabras simples. Esta es aquella computación tolerante  a la imprecisión y a la incertidumbre, algo que contrasta con la exactitud que requiere la computación tradicional. Los componentes característicos de esta computación son la lógica borrosa, el razonamiento probabilístico y la teoría del caos.
+
+
+Y esque a la hora de clasificar, por ejemplo, números pares e impares, los métodos de computación tradicionales podrían resolver este problema sin dificultades, ya es un problema perfectamente definido. Pero, ¿cómo podríamos clasificar personas en guapas y feas? Es algo que no se puede saber con exactitud. De ahí nace la necesidad de utilizar técnicas más tolerantes a la imprecisión o la incertidumbre, de forma que se puedan adoptar problemas de forma más compleja, completa y eficaz.
+
+
+Por último, la ingeniaría del conocimiento. Hoy en día la gente confía en las máquinas para obtener conocimiento, mientras que los sistemas de inferencia actuales no tienen la lógica necesaria para reunir conocimientos de muchas fuentes diferentes. Muchas de estas tareas requieren grandes cantidades de datos de entrenamiento, sobre todo si los eventos a predecir son poco frecuentes. La ingeniería del conocimiento y otros sistemas basados en el conocimiento hacen explícito y accesible el conocimiento de los expertos.  Y es que el fin de este campo es el diseño y desarrollo de sistemas expertos.
+
+
+En resumen, este seminario ha sido una buena introducción de cara a las asignaturas de Machine Learning y Deep Learning.
+
+
+
+
+
+
